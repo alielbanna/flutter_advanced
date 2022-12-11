@@ -1,16 +1,7 @@
-# flutter_advanced
+### Hi there 👋, Tut App
+#### It's a readable, maintainable and sustainable App. I started coding from scratch to build clean architecture project with MVVM. I built presentation layer, data layer, domain layer and application layer step by step. This architecture is designed to make it easier to create stable apps even when outer elements such as UI, databases, or external APIs are always changing. It’s essentially a collection of best practice design principles that help you keep business logic, or domain logic, together and minimize the dependencies within the system. 
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
